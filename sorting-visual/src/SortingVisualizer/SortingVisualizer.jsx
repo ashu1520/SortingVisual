@@ -88,6 +88,10 @@ mergeSort(){
     console.log(arrayAreEqual(javaScriptSortedArray, quickSortedArray))
 } */
 //test Sorting Algo
+/*
+This is just for testing purpose and only works on the method will return if sorting algo returns.
+if they return animation it wont work.
+*/
 testSortingAlgo() {
     for(let i=0;i < 100;i++) { // Creates 100 of arrays
         const array =[];
